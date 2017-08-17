@@ -33,7 +33,7 @@ If you run the file, it will do the following:
 	The data.frame is reduced to variables which names contain "mean" or "std" and end with ()
 	
 6. 	A second, independent tidy data set is created with the average of each variable for each activity and each subject
-	The tidy data respects the rules for tidy data according to Hadley Wickham (https://www.google.de/url?sa=t&rct=j&q=&			esrc=s&source=web&cd=2&ved=0ahUKEwi_vfXXxd7VAhWGsxQKHaXWBmgQFgguMAE&url=https%3A%2F												%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv059i10%2Fv59i10.pdf&usg=AFQjCNGJCmyjRW1EPmG-O4BZ6hnwfjxcxA)
+	The tidy data respects the rules for tidy data according to Hadley Wickham (https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwi_vfXXxd7VAhWGsxQKHaXWBmgQFgguMAE&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv059i10%2Fv59i10.pdf&usg=AFQjCNGJCmyjRW1EPmG-O4BZ6hnwfjxcxA)
 	1. Each variable forms a column.
 	2. Each observation forms a row.
 	3. Each type of observational unit forms a table.
